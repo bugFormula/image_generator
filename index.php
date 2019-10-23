@@ -6,7 +6,7 @@ require_once('class/Image_generator.php');
 	<title>Testing OOP</title>
 </head>
 <body>
-	<h1>Testing OOPHP!</h1>
+	<h1>Image Generator</h1>
 	<ul>
 		<?php
 		$test = new Image_generator();
